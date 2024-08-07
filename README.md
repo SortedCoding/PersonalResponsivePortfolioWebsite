@@ -2,7 +2,7 @@
 A modern, responsive, and customizable personal portfolio website built using HTML, CSS, and JavaScript. This repository contains the source code for a professional online presence that showcases your skills, experience, and projects in a clean and visually appealing way.
 
 # Tutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube]())
+click on the link to see :- ([Open in Youtube](https://youtu.be/_FB07tJxX_4))
 
 # Screenshot
 Here we have project screenshot :
