@@ -1,9 +1,9 @@
-#Portfolio website
+# Portfolio website
 A modern, responsive, and customizable personal portfolio website built using HTML, CSS, and JavaScript. This repository contains the source code for a professional online presence that showcases your skills, experience, and projects in a clean and visually appealing way.
 
 Features:
 
-#Responsive design: 
+# Responsive design: 
 The website adapts to different screen sizes and devices, ensuring a seamless user experience on desktops, laptops, tablets, and mobile phones.
 
 #Customizable: 
